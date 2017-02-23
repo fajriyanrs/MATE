@@ -81,7 +81,7 @@
             android:elevation="0dp"
             android:layout_marginTop="22dp"
             android:hint="Email Address"
-            android:textIsSelectable="false"
+            android:textIsSelectable="true"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true" />
 
